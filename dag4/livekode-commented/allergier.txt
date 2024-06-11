@@ -1,0 +1,46 @@
+Jakob:
+Noah:svinn
+Emil:gluten
+Lukas:
+Isak:gluten
+Filip:
+Aksel:svinn, egg, nøtter
+Theodor:
+Ludvig:
+Oskar:
+Liam:melk, fisk
+Johannes:
+Kasper:kjøtt, melk, laktose
+Magnus:
+Tobias:kjøtt
+Henrik:
+Mathias:kjøtt, svinn, egg
+Viktor:
+Ulrik:svinn, gluten
+Matheo:nøtter, fisk
+Adam:svinn
+Gustav:
+Nora:
+Emma:
+Olivia:svinn
+Ella:
+Sofie:
+Leah:
+Frida:gluten, fisk
+Iben:
+Sara:nøtter
+Maja:
+Ingrid:
+Alma:kjøtt, laktose
+Selma:svinn, melk
+Emilie:
+Ada:
+Astrid:
+Hedda:kjøtt
+Anna:
+Amalie:
+Ellinor:gluten
+Aurora:
+Hedvig:
+Eva:
+Mia:gluten, nøtter
