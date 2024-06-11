@@ -6,7 +6,7 @@
 
 <a href="./livekode-commented/mod1-del1-algoritmer.pdf" class="image fit"></a>
 
-<embed src="./livekode-commented/mod1-del1-algoritmer.pdf" type="application/pdf" />
+<embed src="https://github.com/nglm/digi611/blob/master/dag1/livekode-commented/mod1-del2-tekst_interaksjon.pdf" type="application/pdf" />
 
 ## Del 2: Datatyper og Tekst baserte interaksjoner
 
