@@ -39,6 +39,7 @@ tmp/*
 *.jpeg
 *.zip
 *.webp
+*.mp4
 !README.md
 
 
