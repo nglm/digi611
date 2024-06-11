@@ -2,7 +2,7 @@
 
 ## ENGLISH VERSION, SEE NORWEGIAN BELOW
 
-Welcome to the main page for **DIGI611: Algorithms and Programming, a Practical Introduction to Algorithms and Programming in Python for complete beginners (in Norwegian)**! This course was taught 100% online and was offered by the University of Bergen (Norway) in spring 2024 as part of the [DIGI-EVU project (Norwegian)](https://www.uib.no/utdanning/evu/165984/digital-kompetanse-arbeidslivet#digi611-nbsp-algoritmer-og-programmering).
+Welcome to the main page for **[DIGI611: Algorithms and Programming, a Practical Introduction to Algorithms and Programming in Python for complete beginners (in Norwegian)](https://www4.uib.no/emner/DIGI611)**! This course was taught 100% online and was offered by the University of Bergen (Norway) in spring 2024 as part of the [DIGI-EVU project (Norwegian)](https://www.uib.no/utdanning/evu/165984/digital-kompetanse-arbeidslivet#digi611-nbsp-algoritmer-og-programmering).
 
 I, (Natacha Galmiche), was the lecturer and course coordinator, and you can find some of the resources used in this course in this repository. In addition to the resources you find here, registered participants of the course had access to videos (in Norwegian) for each theme of each module, as well as a quiz at the end of each module. If you are interested in accessing these videos, you can contact me. Quizzes are not available.
 
@@ -58,7 +58,7 @@ ________________________
 
 ## NORWEGIAN VERSION
 
-Velkommen til hovedsiden for **DIGI611: Algoritmer og programmering, en praktisk introduksjon for nybegynnere til algoritmer og programmering i Python (på norsk)**! Dette kurset ble undervist 100% online og ble tilbudt av Universitetet i Bergen (Norge) våren 2024 som en del av [DIGI-EVU-prosjektet (norsk)](https://www.uib.no/utdanning/evu/165984/digital-kompetanse-arbeidslivet#digi611-nbsp-algoritmer-og-programmering).
+Velkommen til hovedsiden for **[DIGI611: Algoritmer og programmering, en praktisk introduksjon for nybegynnere til algoritmer og programmering i Python (på norsk)](https://www4.uib.no/emner/DIGI611)**! Dette kurset ble undervist 100% online og ble tilbudt av Universitetet i Bergen (Norge) våren 2024 som en del av [DIGI-EVU-prosjektet (norsk)](https://www.uib.no/utdanning/evu/165984/digital-kompetanse-arbeidslivet#digi611-nbsp-algoritmer-og-programmering).
 
 Jeg, (Natacha Galmiche), var foreleser og emneansvarlig, og du kan finne noen av ressursene som ble brukt i dette kurset i dette repositoriet. I tillegg til ressursene du finner her, hadde registrerte deltakere av kurset tilgang til videoer (på norsk) for hvert tema i hver modul, samt en quiz på slutten av hver modul. Hvis du er interessert i å få tilgang til disse videoene, kan du kontakte meg. Quizer er ikke tilgjengelige.
 
