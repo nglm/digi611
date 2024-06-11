@@ -1,0 +1,45 @@
+*__pycache__
+*_cache
+*.vscode
+# no backup files
+*~*
+# no ipynb checkpoints
+*.ipynb_checkpoints*
+# no generated html files
+*docs/_build/*
+# no tmp files
+tmp/*
+# sensible folders
+*admin_notes*
+*admin*
+*notes*
+*modul0*
+*modul1*
+*modul2*
+*modul3*
+*modul4*
+*forelesning*
+*livekode-template*
+*livekoding*
+# sensible files
+*code_hovedpoeng*
+*code-hovedpoeng*
+*mål_*
+*mål.*
+*odp
+*.xcf
+*quiz*
+*OLD*
+*ipynb
+*.md
+*.ogg
+*.png
+*.JPG
+*.jpg
+*.jpeg
+*.zip
+*.webp
+!README.md
+
+
+
